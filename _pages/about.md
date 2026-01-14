@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Xiamen University</p>
     <p>No.4221, Xiang'an South Road, Xiang'an District, Xiamen, 361102, Fujian, China.</p>
-    <p>yining.jiang.xmu@outlook.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,3 +27,5 @@ latest_posts:
 ---
 
 I’m a Master's student at Informatic School, Xiamen University. I hold a bachelor's degree from Xiamen University.
+Email: <a href="mailto:yining.jiang.xmu@outlook.com">Outlook</a> | <a href="mailto:yiningjiang@stu.xmu.edu.cn">XMUmail</a>
+Github: <a href="https://github.com/Yining-Jiang" target="_blank">GitHub|Yining-Jiang</a>
