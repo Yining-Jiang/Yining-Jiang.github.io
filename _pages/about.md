@@ -28,4 +28,4 @@ latest_posts:
 
 I’m a Master's student at Informatic School, Xiamen University. I hold a bachelor's degree from Xiamen University.
 Email: <a href="mailto:yining.jiang.xmu@outlook.com">Outlook</a> | <a href="mailto:yiningjiang@stu.xmu.edu.cn">XMUmail</a>
-Github: <a href="https://github.com/Yining-Jiang" target="_blank">GitHub|Yining-Jiang</a>
+Github: <a href="https://github.com/Yining-Jiang" target="_blank">GitHub:Yining-Jiang</a>
